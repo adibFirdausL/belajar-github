@@ -5,5 +5,5 @@ Create new repository
 create new file
 -buat file apapun
 -coba commit
--coba edit file
 -lihat hasil commit
+-tutorial 2
