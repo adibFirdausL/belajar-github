@@ -1,3 +1,6 @@
 mencoba membuat sebuah branch
 -coba commit di branch
 -berhasil merge branch
+
+coba branch 2
+- akankah di merge
